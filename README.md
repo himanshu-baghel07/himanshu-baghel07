@@ -5,18 +5,18 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Social media
 - 🌱 I’m currently Advancing ReactJS
 - 📫 How to reach me: [Himanshubaghel0](https://twitter.com/himanshubaghel0)
 
 
 👨‍💻My Work Areas
-# ReactJS
-#Javascript
-#HTML
-#CSS
-#Git
+- ReactJS
+- Javascript
+- HTML
+- CSS
+- Git
 
 
 💻 My Works
-# [Weather Finder](https://weather-app-ba5df.web.app/)
+- [Weather Finder](https://weather-app-ba5df.web.app/)
