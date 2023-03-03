@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on Social media
+- 🔭 I’m currently working on some Amazing Projects
 - 🌱 I’m currently Advancing ReactJS
 - 📫 How to reach me: [Himanshubaghel0](https://twitter.com/himanshubaghel0)
 
