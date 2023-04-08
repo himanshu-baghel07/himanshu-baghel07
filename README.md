@@ -16,9 +16,15 @@ Here are some ideas to get you started: -->
 - HTML
 - CSS
 - Git
-
+- Redux
+- Material UI
+- Firebase
 
 💻 My Works
+
+- [Portfolio](https://himanshu-baghel.web.app/)
+
 - [Weather Finder](https://weather-app-ba5df.web.app/)
 
 - [AnyNotes](https://anynotess.web.app/)
+
