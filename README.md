@@ -1,3 +1,4 @@
+![Cover Image](https://i.postimg.cc/xTStjVyX/linkedin-Banner-1.png)
 ### Hi there 👋
 
 <!--
@@ -27,4 +28,10 @@ Here are some ideas to get you started: -->
 - [Weather Finder](https://weather-app-ba5df.web.app/)
 
 - [AnyNotes](https://anynotess.web.app/)
+
+
+
+
+![gif file](https://media.tenor.com/LJC9j1vSkXwAAAAd/j-im-carreytyping-busy-working.gif)
+
 
