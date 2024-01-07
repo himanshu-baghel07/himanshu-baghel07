@@ -33,6 +33,6 @@ Here are some ideas to get you started: -->
 
 
 
-![gif file](https://media.tenor.com/LJC9j1vSkXwAAAAd/j-im-carreytyping-busy-working.gif)
+
 
 
