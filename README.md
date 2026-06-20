@@ -20,44 +20,6 @@ Currently working on modern full-stack applications with real-time features and 
 
 ---
 
-## 🛠 Tech Stack
-
-### Languages
-- JavaScript (ES6+)
-- TypeScript
-- HTML5
-- CSS3
-
-### Frontend
-- React.js
-- Next.js
-- Redux / Redux Toolkit
-- Tailwind CSS
-- Shadcn UI
-- Material UI
-- Ant Design
-- Bootstrap
-
-### Backend
-- Node.js
-- Express.js
-- REST API Development
-
-### Database
-- MongoDB
-
-### Tools
-- Git
-- GitHub
-- Bitbucket
-- Axios
-- Postman
-
-### Web3
-- WalletConnect
-- Blockchain wallet integrations
-
----
 
 ## 🚀 Featured Project
 
