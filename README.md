@@ -21,29 +21,25 @@ Currently working on modern full-stack applications with real-time features and 
 ---
 
 
+
 ## 🚀 Featured Project
 
-### Expense Manager
+### MyShop Backend
 
-A modern **full-stack expense tracking application** built with **Next.js, React, TypeScript, Node.js, and MongoDB**.
+A scalable **e-commerce backend API** built with **Node.js, Express.js, MongoDB, and JWT Authentication**. It provides secure REST APIs for managing users, products, carts, and orders while following a clean and modular architecture. :contentReference[oaicite:0]{index=0}
 
-Features:
+**Features:**
 
-- JWT authentication (login/register)
-- Protected routes using middleware
-- Full CRUD expense management
-- Category tracking and date filters
-- Analytics dashboard with charts
-- Pagination for large datasets
-- Secure backend API with Express.js
+- JWT-based user authentication and authorization
+- RESTful APIs for products, categories, carts, and orders
+- Role-based access control (Admin/User)
+- MongoDB with Mongoose for efficient data management
+- Input validation and centralized error handling
+- Secure password hashing with bcrypt
+- Modular and scalable Express.js architecture
 
-Frontend Repo  
-https://github.com/himanshu-baghel07
-
-Backend Repo  
-https://github.com/himanshu-baghel07
-
----
+**Repository**  
+https://github.com/himanshu-baghel07/my-shop-backend
 
 ## 🌐 Portfolio
 
